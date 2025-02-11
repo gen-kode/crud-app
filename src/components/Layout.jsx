@@ -1,9 +1,9 @@
 import React from 'react'
-import Form from './pages/Form'
+import TestPage from './pages/TestPage'
 
 function Layout() {
   return (
-    <div><Form/></div>
+    <div><TestPage/></div>
   )
 }
 
